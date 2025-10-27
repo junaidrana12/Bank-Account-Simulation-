@@ -40,3 +40,4 @@ Junaid Rana
 🌐 [https://www.linkedin.com/in/junaid-rana-32118526a/]
 
 <img width="953" height="494" alt="Bank Account Simulations screenshot" src="https://github.com/user-attachments/assets/4ecd7a79-03ae-41fd-ad84-18814853d4a7" />
+<img width="955" height="502" alt="Bank Account Simulations screenshot 2" src="https://github.com/user-attachments/assets/83b19596-0aeb-4310-bcb1-63de27f4dedb" />
